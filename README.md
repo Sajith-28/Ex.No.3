@@ -97,7 +97,6 @@ Present the major features of the AI-Based Smart Healthcare Assistant in a table
 
 **Output:**
 
-```text
 | Feature | Purpose | Example |
 |---|---|---|
 | Smart Appointment Scheduling | Helps patients book, reschedule, and cancel doctor appointments. | A patient books an appointment with a cardiologist for Monday. |
@@ -112,7 +111,6 @@ Present the major features of the AI-Based Smart Healthcare Assistant in a table
 Conclusion:
 
 The AI-Based Smart Healthcare Assistant simplifies healthcare management by combining appointment scheduling, medication reminders, AI-powered health assistance, and daily wellness monitoring in one platform.
-```
 
 **Evaluation:**
 
